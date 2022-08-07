@@ -1,0 +1,100 @@
+s.banner {
+    display: inline;
+    
+
+}
+
+#lab {
+    width: 407px;
+    height: 250px;
+}
+
+#classroom {
+    width: 507px;
+    height: 250px;
+
+}
+
+#basket {
+    width: 407px;
+    height: 250px;
+
+}.centered {
+
+    text-align:center;
+    font-size: 50px; 
+    position: absolute;   
+    top: 5%;
+    left: 25%;
+    color: rgb(236, 240, 229);
+}
+.container>.row>.col-md-9 {
+    overflow: hidden;
+    height: 100%
+}
+.kk_bg31 {
+    background-color: #fff;
+    padding: 15px
+}
+.kk_bg5 p a {
+    font-size: 36px;
+    text-decoration: none;
+    color: #fff
+}
+
+.kk_bg5 p a:hover {
+    color: #f6ad3e;
+    background: 0 0
+}
+
+
+.kk_evnt {
+    font-family: Futurist-Fixed-width;
+    font-size: 38px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #fff
+}
+
+.section-evnt:before {
+    content: "";
+    height: 2px;
+    width: 80px;
+    background-color: #f6ad3e;
+    position: absolute;
+    bottom: -1px;
+    left: 47%
+}
+
+.kk_evnt_p {
+    font-weight: 500;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 4px;
+    color: #fff
+}
+
+.section-evnt {
+    position: relative;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: Futurist-Fixed-width;
+    color: rgb(92, 82, 82);
+}
+.image {
+    
+    position: absolute;
+}
+#cal{
+
+
+        
+    width: 400px;
+   
+    height: 400px;
+
+
+}
